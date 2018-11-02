@@ -1,0 +1,32 @@
+{
+  "name": "Headless-WordPress-w-React-and-Next.js-Demo",
+  "version": "0.0.0",
+  "description": "A Headless WordPress w/ React and Next.js Demo Application.",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "next": "^7.0.2",
+    "next-routes": "^1.4.2",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "wordpress",
+    "router",
+    "spa",
+    "ssr"
+  ],
+  "author": {
+    "name": "jomurgel",
+    "email": "jo@webdevstudios.com"
+  },
+  "license": "MIT"
+}
