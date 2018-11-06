@@ -1,9 +1,8 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import Navigation from '../components/Navigation'
-import React, { Component } from 'react'
+import React, { Component, Fragment } from 'react'
 import axios from 'axios';
-import { Fragment } from 'react'
 
 export default class extends Component {
 
