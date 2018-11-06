@@ -6,7 +6,7 @@ import { Fragment } from 'react'
 
 export default class extends Component {
 
-  // Resolve promis and set initial props.
+  // Resolve promise and set initial props.
   static async getInitialProps( context ) {
 
     const slug = context.query.slug
