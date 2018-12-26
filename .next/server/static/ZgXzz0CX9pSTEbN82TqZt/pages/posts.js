@@ -236,7 +236,7 @@ function (_Component) {
     }
   }], [{
     key: "getInitialProps",
-    // Resolve promis and set initial props.
+    // Resolve promise and set initial props.
     value: function () {
       var _getInitialProps = _asyncToGenerator(
       /*#__PURE__*/
