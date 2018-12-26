@@ -623,7 +623,7 @@
       "publicPath": "static/chunks/commons.c2112536971da66ebca4.js"
     }
   ],
-  "@babel/runtime-corejs2/core-js/object/assign": [
+  "../core-js/object/assign": [
     {
       "id": 87,
       "name": "./node_modules/@babel/runtime-corejs2/core-js/object/assign.js",
